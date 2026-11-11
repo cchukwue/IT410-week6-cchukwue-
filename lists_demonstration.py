@@ -1,5 +1,5 @@
 # Name: Christopher Chukwuemeka Simeon Okoro
-# Course: 26/FA-IT410-V1
+# Course: 26/FA-IT410
 # Week 6 - Demo Video: Lists Demonstration
 
 # Create a list of favorite Marvel movies
