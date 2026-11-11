@@ -1,14 +1,14 @@
 # Name: Christopher Chukwuemeka Simeon Okoro
-# Course: 26/FA-IT410-V1
+# Course: 26/FA-IT410-VI
 # Week 6 - Chapter 4 "Try It Yourself" Problems
 
-# Problem 4-1: Loop through four favorite places to visit
+# Problem 4-1: Loop over four favourite places to visit 
 favorite_places = ["Kyoto", "Iceland", "Barcelona", "Banff National Park"]
 for place in favorite_places:
     print(place + " is a nice place to visit")
 
 
-# Problem 4-2: Print numbers from 90 to 100 inclusive
+# Problem 4-2: Write a program to print numbers from 90 to 100 inclusive
 for number in range(90, 101):
     print(number)
 
